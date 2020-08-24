@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  padding: 3rem;
+}
+
+h1 {
+  color: blue;
+  font-size: 5rem;
+  height: 7rem;
+}
+
+h3 {
+  color: grey;
+}
+
+button {
+  margin: 1rem 2rem;
+  font: 1.1rem sans-serif;
+  border-radius: 1rem;
+  padding: 1rem;
+}
+
+.btn {
+  /* margin: auto; */
+  padding: auto;
+}
+
+div {
+  width: 10rem;
+  height: 8rem;
+  margin: auto;
+}
